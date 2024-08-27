@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "id": "ef57",
+      "Name": "Veer",
+      "Email": "veer@work",
+      "Password": "veer@1"
+    },
+    {
+      "id": "3a68",
+      "Name": "Veer",
+      "Email": "veer@work",
+      "Password": "veer@1"
+    },
+    {
+      "id": "5044",
+      "Name": "Bhageyesh",
+      "Email": "deor@work",
+      "Password": "deor@1"
+    },
+    {
+      "id": "92be",
+      "name": "Veer",
+      "password": "veer@1",
+      "Email": "Veer@work.com"
+    },
+    {
+      "id": "b4a6",
+      "name": "Veer",
+      "password": "veer@1",
+      "Email": "Veer@work.com"
+    },
+    {
+      "id": "5d2a",
+      "name": "bhagyesh deore",
+      "password": "bhag@1",
+      "Email": "bhagyesh@work.com"
+    },
+    {
+      "id": "c83d",
+      "name": "sdwwdw",
+      "password": "wdwdwd",
+      "email": "wdwdwd"
+    },
+    {
+      "id": "fb99",
+      "name": "NITIHS KUMAR",
+      "password": "jwifei",
+      "email": "lknfkhihv"
+    },
+    {
+      "id": "71bd",
+      "name": "Veer",
+      "password": "veer@1",
+      "email": "veer@work"
+    }
+  ]
+}
